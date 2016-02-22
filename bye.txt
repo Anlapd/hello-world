@@ -1,2 +1,2 @@
-print bye people
-print bye guys
+print bye people!
+print bye guys!
