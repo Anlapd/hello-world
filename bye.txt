@@ -1,4 +1,5 @@
-print bye people
-print bye guys
-print goodbye 
-print goodbye, i'll be back
+print bye people!
+print bye guys!
+print goodbye! 
+print goodbye, i'll be back!
+
